@@ -2,15 +2,15 @@
 
 I work with interaction design, computational systems, spatial interaction, affective computing, and computational music.
 
-My central interests are to explore how computational systems can interpret people and context, and how music connects individual experience with social and cultural systems. I have worked with physiological sensing, physical computing, geospatial and socio-spatial data, wearables, environmental sensing, adaptive media, and interactive music.
+My central interests concern how computational systems can interpret people and context, and how music connects individual experience with social and cultural systems. I have worked with physiological sensing, physical computing, geospatial and socio-spatial data, wearables, environmental sensing, adaptive media, and interactive music.
 
-Across projects including biomusic.cc, Beddit, Sterio, Holonic Systems, and Telharmonium, a recurring concern is how sensing becomes interpretation, and how interpretation can become meaningful agency. I am particularly interested in systems whose behaviour remains available to authorship and examination rather than disappearing into opaque automation.
+Across projects including biomusic.cc, Beddit, Sterio, Holonic Systems, and Telharmonium, I have repeatedly examined how sensing becomes interpretation, and how interpretation can become meaningful agency. I am particularly studying systems whose behaviour remains available to authorship and inquiry rather than disappearing into opaque automation.
 
 I currently lead **Telharmonium Labs**, where I am developing **Telharmonium Composer**, an AI-assisted symbolic composition and interaction system built around explicit constraints, explainable behaviour, context-aware adaptation, auditable cultural and musical knowledge with immutable provenance.
 
 ## Selected work
 
-### Telharmonium Composer
+### [Telharmonium Composer](https://github.com/holminid/Telharmonium)
 
 AI-assisted symbolic composition, affective modelling, and context-aware musical interaction. The system investigates how musical knowledge, structural constraints, context, and authored intention can participate in computational decision-making.
 
