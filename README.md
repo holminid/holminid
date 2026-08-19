@@ -18,10 +18,6 @@ Active development in a private repository.
 
 Context-aware, zero-UI mobile systems for data sonification, adaptive music and lighting, based on geospatial, socio-spatial, and physical computing.
 
-### [VCVRack-Holon.ist](https://github.com/holminid/VCVRack-Holon.ist)
-
-Modular tools connecting real-time contextual data with musical systems.
-
 ### [ove.fi](https://ove.fi/works/)
 
 Selected work in interaction design, computational and spatial systems, music technology, visual communication, and research.
